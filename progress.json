@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:28:29.326Z",
+  "generated_at": "2026-11-17T18:20:00.447Z",
   "items": {
     "math:118": {
       "kind": "math",
@@ -11,6 +11,17 @@
       "path": "math/0118-interpolation-and-double-descent",
       "first_solved_at": "2026-11-04T14:28:24.174Z",
       "last_pushed_at": "2026-11-04T14:28:24.174Z"
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-11-17T18:19:59.791Z",
+      "last_pushed_at": "2026-11-17T18:19:59.791Z"
     }
   }
 }
